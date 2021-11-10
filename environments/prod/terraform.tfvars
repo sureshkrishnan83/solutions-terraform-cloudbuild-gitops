@@ -1,1 +1,1 @@
-project="gitops-dbwintel"
+project="opstodev-test"

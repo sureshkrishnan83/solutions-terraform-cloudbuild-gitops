@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "gitops-dbwintel-tfstate"
+    bucket = "opstodev-test-tfstate"
     prefix = "env/dev"
   }
 }
